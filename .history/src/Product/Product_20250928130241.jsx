@@ -13,7 +13,7 @@ function Product() {
         This is a short description of the product. It looks nice and simple.
       </p>
       <p className="product-price">₹444499</p>
-      <a href="https://www.rtings.com/laptop/reviews/apple" target="_blank">
+      <a href="https://www.rtings.com/laptop/reviews/apple" target="_">
         <button className="buy-btn">Buy Now</button>
       </a>
     </div>
