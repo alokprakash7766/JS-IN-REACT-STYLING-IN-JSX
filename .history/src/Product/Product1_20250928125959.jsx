@@ -1,6 +1,6 @@
 function Product1() {
   return (
-    <div >
+    <div className="container">
       
     </div>
   );
